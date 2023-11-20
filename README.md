@@ -7,33 +7,3 @@
   <p style="font-size: 1.1rem; line-height: 1.5; margin-bottom: 20px;">Each project in this course is started from scratch and finished without using copied code. Then, we'll go over the code together to ensure that everyone understands. This program's exciting project-based curriculum includes building modern, super cool, and responsive websites!</p>
   <p style="font-size: 1.1rem; line-height: 1.5; margin-bottom: 20px;">If you have any questions, please feel free to contact me via my email: Markeddy254@gmail.com </p>
 </div>
-
-Project Overview
-This repository will host a collection of mini web projects built using HTML, CSS, and JavaScript. These projects will cover a range of web development fundamentals and techniques, providing you with hands-on experience in creating interactive and visually appealing web applications.
-
-Getting Started
-Clone the Repository:
-
-Bash
-git clone https://github.com/[your-username]/HTML-CSS-JavaScript-Projects.git
-Use code with caution. Learn more
-Navigate to the Repository:
-
-Bash
-cd HTML-CSS-JavaScript-Projects
-Use code with caution. Learn more
-Install Dependencies:
-
-Bash
-npm install
-Use code with caution. Learn more
-Start the Development Server:
-
-Bash
-npm start
-Use code with caution. Learn more
-Project Structure
-The repository will follow a structured organization, with each project occupying its own directory. Each project directory will contain the necessary HTML, CSS, and JavaScript files, along with any additional assets.
-
-Contribution Guidelines
-Contributions to this repository are welcome and encouraged. If you find any errors or have suggestions for improvements, please feel free to create issues or pull requests.

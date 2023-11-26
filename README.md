@@ -1,4 +1,4 @@
-# <a href="https://100jsprojects.com" style="background-color: #1a73e8; color: white; font-weight: bold; padding: 10px 20px; border-radius: 5px; text-decoration: none;">HTML CSS JavaScript Projects</a>
+# <a href="https://100jsprojects.com" style="background-color: #1a73e8; color: white; font-weight: bold; padding: 10px 20px; border-radius: 5px; text-decoration: none;">HTML-CSS-JavaScript Projects</a>
 
 <div style="max-width: 600px; margin: 0 auto; padding: 20px;">
   <h1 style="font-size: 2rem; font-weight: bold; margin-bottom: 10px;">About</h1>
